@@ -5,6 +5,8 @@
       colorscheme = "gruvbox-material-dark-medium";
     };
 
+    # clipboard.providers.wl-copy.enable = true;
+
     opts = {
       # Line numbers
       number = true;
