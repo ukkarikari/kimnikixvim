@@ -1,4 +1,14 @@
 {
-  # Import all your configuration modules here
-  imports = [ ./bufferline.nix ];
+  imports = [
+    ./settings.nix
+
+    # Utils
+    ./plugins/utils/autopairs.nix
+
+    # UI
+    ./plugins/ui/bufferline.nix
+    ./plugins/ui/lualine.nix
+    ./plugins/ui/noice.nix
+    ./plugins/ui/alpha.nix
+  ];
 }
