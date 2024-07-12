@@ -3,7 +3,11 @@
     ./settings.nix
     ./keys.nix
 
+    # File Tree
+    ./plugins/filetree/neotree.nix
+
     # Utils
+    ./plugins/utils/whichkey.nix
     ./plugins/utils/autopairs.nix
     ./plugins/utils/todo-comments.nix
 
