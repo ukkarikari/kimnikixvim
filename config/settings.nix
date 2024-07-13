@@ -2,7 +2,8 @@
   config = {
     colorschemes.base16 = {
       enable = true;
-      colorscheme = "gruvbox-material-dark-medium";
+      setUpBar = false;
+      colorscheme = import ./colors/gruvbox.nix { };
     };
 
     # clipboard.providers.wl-copy.enable = true;
@@ -11,6 +12,9 @@
       # Line numbers
       number = true;
       relativenumber = true;
+      
+      # Signcolumn
+      signcolumn = "yes";
 
       # Tabs
       smartindent = true;
