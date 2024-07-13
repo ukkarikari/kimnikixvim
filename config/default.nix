@@ -20,6 +20,7 @@
     ./plugins/snippets/luasnip.nix
 
     # Utils
+    ./plugins/utils/harpoon.nix
     ./plugins/utils/whichkey.nix
     ./plugins/utils/floaterm.nix
     ./plugins/utils/autopairs.nix
