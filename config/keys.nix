@@ -10,7 +10,7 @@
     {
       mode = "n";
       key = "<leader>e";
-      action = "<cmd>Neotree toggle<cr>";
+      action = "<cmd>Neotree focus<cr>";
     }
     {
       mode = "n";
@@ -26,6 +26,11 @@
       mode = ["n" "v"];
       key = "<leader>q";
       action = "<cmd>bdelete<cr>";
+    }
+    {
+      mode = "n";
+      key = "<leader>t";
+      action = "<cmd>FloatermNew<cr>";
     }
   ];
 }

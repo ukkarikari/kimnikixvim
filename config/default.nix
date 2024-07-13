@@ -3,11 +3,25 @@
     ./settings.nix
     ./keys.nix
 
-    # File Tree
-    ./plugins/filetree/neotree.nix
+    # Lsp
+    ./plugins/lsp/lsp.nix
+    ./plugins/lsp/conform.nix
+    ./plugins/lsp/lspsaga.nix
+
+    # Tree
+    ./plugins/tree/neotree.nix
+    ./plugins/tree/treesitter.nix
+
+    # Completion
+    ./plugins/completion/cmp.nix
+    ./plugins/completion/lspkind.nix
+
+    # Snippets
+    ./plugins/snippets/luasnip.nix
 
     # Utils
     ./plugins/utils/whichkey.nix
+    ./plugins/utils/floaterm.nix
     ./plugins/utils/autopairs.nix
     ./plugins/utils/todo-comments.nix
 
