@@ -4,6 +4,7 @@
       enable = true;
       setUpBar = false;
       # colorscheme = import ./colors/gruvbox.nix { };
+      colorscheme = "darcula"; 
     };
 
     # clipboard.providers.wl-copy.enable = true;
