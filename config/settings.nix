@@ -3,7 +3,7 @@
     colorschemes.base16 = {
       enable = true;
       setUpBar = false;
-      colorscheme = import ./colors/gruvbox.nix { };
+      # colorscheme = import ./colors/gruvbox.nix { };
     };
 
     # clipboard.providers.wl-copy.enable = true;
