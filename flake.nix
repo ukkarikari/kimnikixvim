@@ -1,5 +1,5 @@
 {
-  description = "A nixvim configuration";
+  description = "a nixvim botch job";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-24.05";

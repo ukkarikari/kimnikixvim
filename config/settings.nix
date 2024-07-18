@@ -4,10 +4,10 @@
       enable = true;
       setUpBar = false;
       # colorscheme = import ./colors/gruvbox.nix { };
-      colorscheme = "darcula"; 
+      colorscheme = "still-alive"; 
     };
-
-    # clipboard.providers.wl-copy.enable = true;
+      
+    clipboard.providers.wl-copy.enable = true;
 
     opts = {
       # Line numbers
@@ -23,6 +23,7 @@
 
       # Text wrap
       wrap = true;
+
     };
   };
 }
