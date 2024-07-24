@@ -4,7 +4,7 @@
       enable = true;
       setUpBar = false;
       # colorscheme = import ./colors/gruvbox.nix { };
-      colorscheme = "still-alive"; 
+      colorscheme = "phd"; 
     };
       
     clipboard.providers.wl-copy.enable = true;
