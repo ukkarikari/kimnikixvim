@@ -3,7 +3,7 @@
     enable = true;
 
     window.mappings = {
-      h = "open_tabnew";
+      l = "open_tabnew";
     };
   };
 }

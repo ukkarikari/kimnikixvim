@@ -13,6 +13,9 @@
       # Line numbers
       number = true;
       relativenumber = true;
+
+      # Cursorline
+      cursorline = true;
       
       # Signcolumn
       signcolumn = "yes";
