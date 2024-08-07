@@ -1,6 +1,6 @@
 {
   plugins.alpha = {
     enable = true;
-    theme = "dashboard";
+    theme = "startify";
   };
 }

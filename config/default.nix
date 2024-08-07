@@ -28,12 +28,14 @@
     ./plugins/utils/floaterm.nix
     ./plugins/utils/autopairs.nix
     ./plugins/utils/todo-comments.nix
+    ./plugins/utils/hardtime.nix
+    ./plugins/utils/guess-indent.nix
 
     # UI
     ./plugins/ui/bufferline.nix
     ./plugins/ui/toggleterm.nix
     ./plugins/ui/lualine.nix
-    ./plugins/ui/noice.nix
+    #./plugins/ui/noice.nix
     ./plugins/ui/alpha.nix
   ];
 }
