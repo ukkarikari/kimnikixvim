@@ -1,14 +1,13 @@
 {
   config = {
-#    colorschemes.base16 = {
-#      enable = true;
-#      setUpBar = false;
-#      # colorscheme = import ./colors/gruvbox.nix { };
-#      colorscheme = "quiet"; 
-#    };
-      
+    #colorschemes.base16 = {
+    #  enable = true;
+    #  setUpBar = false;
+    #  colorscheme = import ./colors/test.nix { };
+    #};
+
     clipboard.providers.wl-copy.enable = true;
-    colorscheme = "quiet";
+    colorscheme = "blue";
 
     opts = {
       # Line numbers

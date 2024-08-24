@@ -15,8 +15,18 @@
 	  enable = true;
 	  autostart = true;
 	};
-	# Nix
+	# Python
 	pyright = {
+	  enable = true;
+	  autostart = true;
+	};
+	# Html
+	html = {
+	  enable = true;
+	  autostart = true;
+	};
+	# CSS
+	cssls = {
 	  enable = true;
 	  autostart = true;
 	};
