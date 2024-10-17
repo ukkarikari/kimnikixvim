@@ -8,7 +8,7 @@
     ./plugins/lsp/conform.nix
     ./plugins/lsp/lspsaga.nix
 
-    # Git 
+    # Git
     ./plugins/git/gitsigns.nix
 
     # Tree
@@ -28,8 +28,8 @@
     ./plugins/utils/floaterm.nix
     ./plugins/utils/autopairs.nix
     ./plugins/utils/todo-comments.nix
-    ./plugins/utils/hardtime.nix
     ./plugins/utils/guess-indent.nix
+    ./plugins/utils/precognition.nix
 
     # UI
     ./plugins/ui/bufferline.nix

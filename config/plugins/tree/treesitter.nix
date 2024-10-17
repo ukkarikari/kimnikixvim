@@ -1,7 +1,7 @@
 {
   plugins.treesitter = {
     enable = true;
-    indent = true;
     nixvimInjections = true;
   };
+  plugins.treesitter.settings.indent.enable = true;
 }

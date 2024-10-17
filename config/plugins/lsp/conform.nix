@@ -2,13 +2,13 @@
   plugins.conform-nvim = {
     enable = true;
 
-    formatOnSave = {
+    settings.format_on_save = {
       lspFallback = true;
       timeoutMs = 500;
     };
-    notifyOnError = true;
+    settings.notify_on_error = true;
 
-    formattersByFt = {
+    settings.formatters_by_ft = {
       python = [ "black" ];
       nix = [ "alejandra" ];
     };
