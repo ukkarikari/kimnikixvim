@@ -30,6 +30,7 @@
     ./plugins/utils/todo-comments.nix
     ./plugins/utils/guess-indent.nix
     ./plugins/utils/precognition.nix
+    ./plugins/utils/presence-nvim.nix
 
     # UI
     ./plugins/ui/bufferline.nix
