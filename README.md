@@ -10,4 +10,4 @@ inspired by [guilherme-romanholo](https://github.com/guilherme-romanholo/) and [
 
 ## to do : 
 - [ ] replace presence-nvim with neocord
-- [ ] fix deprecated devicons.enable
+- [x] fix deprecated devicons.enable

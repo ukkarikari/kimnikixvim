@@ -31,6 +31,7 @@
     ./plugins/utils/guess-indent.nix
     ./plugins/utils/precognition.nix
     ./plugins/utils/presence-nvim.nix
+    ./plugins/utils/web-devicons.nix
 
     # UI
     ./plugins/ui/bufferline.nix
