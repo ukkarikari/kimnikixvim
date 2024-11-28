@@ -12,7 +12,7 @@
     ./plugins/git/gitsigns.nix
 
     # Tree
-    ./plugins/tree/neotree.nix
+    ./plugins/tree/oil.nix
     ./plugins/tree/treesitter.nix
 
     # Completion

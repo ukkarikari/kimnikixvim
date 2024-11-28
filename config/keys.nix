@@ -9,11 +9,6 @@
     }
     {
       mode = "n";
-      key = "<leader>e";
-      action = "<cmd>Neotree focus<cr>";
-    }
-    {
-      mode = "n";
       key = "<S-l>";
       action = "<cmd>bnext<cr>";
     }

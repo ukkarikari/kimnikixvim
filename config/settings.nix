@@ -7,7 +7,7 @@
     #};
 
     clipboard.providers.wl-copy.enable = true;
-    colorscheme = "vim";
+    colorscheme = "zaibatsu";
 
     opts = {
       # Line numbers
