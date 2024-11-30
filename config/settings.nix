@@ -1,13 +1,13 @@
 {
   config = {
-    #colorschemes.base16 = {
-    #  enable = true;
-    #  setUpBar = false;
-    #  colorscheme = import ./colors/test.nix { };
-    #};
+    colorschemes.base16 = {
+      enable = true;
+      setUpBar = false;
+      colorscheme = import ./colors/redphoenix.nix { };
+    };
 
     clipboard.providers.wl-copy.enable = true;
-    colorscheme = "zaibatsu";
+    #colorscheme = "default";
 
     opts = {
       # Line numbers
