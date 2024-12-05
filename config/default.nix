@@ -30,7 +30,8 @@
     ./plugins/utils/todo-comments.nix
     ./plugins/utils/guess-indent.nix
     ./plugins/utils/precognition.nix
-    ./plugins/utils/presence-nvim.nix
+    #./plugins/utils/presence-nvim.nix
+    ./plugins/utils/neocord.nix
     ./plugins/utils/web-devicons.nix
 
     # UI

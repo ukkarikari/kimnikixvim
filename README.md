@@ -1,13 +1,14 @@
 # KIMNIKIXVIM
 
-my nixvim config. 
+personal nixvim config. 
 
-inspired by [guilherme-romanholo](https://github.com/guilherme-romanholo/) and [haru02w](https://github.com/haru02w/)
+thanks to my friends [guilherme-romanholo](https://github.com/guilherme-romanholo/) and [haru02w](https://github.com/haru02w/) for starting my nix journey.
 
 
 ## screenshot:
-![screencap](/screenshot.png "nixvim screencap")
+![screencap](/screenshot2.png "nixvim screencap")
+![screencap](/screenshot3.png "nixvim screencap")
 
 ## to do : 
-- [ ] replace presence-nvim with neocord
+- [x] replace presence-nvim with neocord
 - [x] fix deprecated devicons.enable
