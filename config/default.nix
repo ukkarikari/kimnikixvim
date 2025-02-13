@@ -33,6 +33,7 @@
     #./plugins/utils/presence-nvim.nix
     ./plugins/utils/neocord.nix
     ./plugins/utils/web-devicons.nix
+    ./plugins/utils/magma-nvim.nix
 
     # UI
     ./plugins/ui/bufferline.nix

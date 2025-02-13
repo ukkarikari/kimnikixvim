@@ -7,7 +7,7 @@
     };
 
     clipboard.providers.wl-copy.enable = true;
-    #colorscheme = "default";
+    colorscheme = "default";
 
     opts = {
       # Line numbers
