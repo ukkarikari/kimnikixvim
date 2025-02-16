@@ -30,13 +30,10 @@
     ./plugins/utils/todo-comments.nix
     ./plugins/utils/guess-indent.nix
     ./plugins/utils/precognition.nix
-    #./plugins/utils/presence-nvim.nix
     ./plugins/utils/neocord.nix
     ./plugins/utils/web-devicons.nix
-    ./plugins/utils/magma-nvim.nix
 
     # UI
-    ./plugins/ui/bufferline.nix
     ./plugins/ui/toggleterm.nix
     ./plugins/ui/lualine.nix
     ./plugins/ui/alpha.nix

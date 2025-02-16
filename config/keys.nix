@@ -27,5 +27,25 @@
       key = "<leader>t";
       action = "<cmd>FloatermNew<cr>";
     }
+    {
+      mode = "t";
+      key = "<C-Space>";
+      action = "<cmd>FloatermToggle<cr>";
+    }
+    {
+      mode = "n";
+      key = "<C-Space>";
+      action = "<cmd>FloatermToggle<cr>";
+    }
+    {
+      mode = "n";
+      key = "<leader>o";
+      action = "<cmd>Oil<cr>";
+    }
+    {
+      mode = "n";
+      key = "<leader>p";
+      action = "<cmd>Precognition toggle<cr>";
+    }
   ];
 }
