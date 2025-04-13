@@ -32,6 +32,8 @@
     ./plugins/utils/precognition.nix
     ./plugins/utils/neocord.nix
     ./plugins/utils/web-devicons.nix
+    ./plugins/utils/molten.nix
+    ./plugins/utils/jupytext.nix
 
     # UI
     ./plugins/ui/toggleterm.nix

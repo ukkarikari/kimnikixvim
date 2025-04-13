@@ -3,11 +3,12 @@
     colorschemes.base16 = {
       enable = true;
       setUpBar = false;
-      colorscheme = import ./colors/redphoenix.nix { };
+      #colorscheme = import ./colors/redphoenix.nix { };
+      colorscheme = "dracula";
     };
 
     clipboard.providers.wl-copy.enable = true;
-    colorscheme = "default";
+    #colorscheme = "default";
 
     opts = {
       # Line numbers

@@ -47,5 +47,20 @@
       key = "<leader>p";
       action = "<cmd>Precognition toggle<cr>";
     }
+    {
+      mode = "n";
+      key = "<leader>e";
+      action = "<cmd>lua vim.diagnostic.open_float()<cr>";
+    }
+    {
+      mode = "n";
+      key = "<leader>l";
+      action = "<cmd>MoltenEvaluateOperator<cr>"; 
+    }
+    {
+      mode = "n";
+      key = "<leader>L";
+      action = "<cmd>MoltenInit<cr>"; 
+    }
   ];
 }
