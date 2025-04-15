@@ -4,6 +4,7 @@
 
     python3Dependencies = p:
       with p; [
+        pandas
         pynvim
         jupyter-client
         cairosvg
@@ -11,6 +12,9 @@
         nbformat
         ipykernel
         polars
+        matplotlib
+        scikit-learn
+        numpy
       ];
   };
 }
