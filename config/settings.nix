@@ -4,11 +4,11 @@
       enable = true;
       setUpBar = false;
       #colorscheme = import ./colors/redphoenix.nix { };
-      colorscheme = "dracula";
+      #colorscheme = "dracula";
     };
 
     clipboard.providers.wl-copy.enable = true;
-    #colorscheme = "default";
+    colorscheme = "blue";
 
     opts = {
       # Line numbers

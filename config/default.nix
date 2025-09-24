@@ -34,6 +34,7 @@
     ./plugins/utils/web-devicons.nix
     ./plugins/utils/molten.nix
     ./plugins/utils/jupytext.nix
+    ./plugins/utils/markdown-preview.nix
 
     # UI
     ./plugins/ui/toggleterm.nix
