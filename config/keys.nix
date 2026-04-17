@@ -10,17 +10,12 @@
     {
       mode = "n";
       key = "<S-l>";
-      action = "<cmd>bnext<cr>";
+      action = "<cmd>tabnext<cr>";
     }
     {
       mode = "n";
       key = "<S-h>";
-      action = "<cmd>bprev<cr>";
-    }
-    {
-      mode = ["n" "v"];
-      key = "<leader>q";
-      action = "<cmd>bdelete<cr>";
+      action = "<cmd>tabprev<cr>";
     }
     {
       mode = "n";
@@ -51,16 +46,6 @@
       mode = "n";
       key = "<leader>e";
       action = "<cmd>lua vim.diagnostic.open_float()<cr>";
-    }
-    {
-      mode = "n";
-      key = "<leader>l";
-      action = "<cmd>MoltenEvaluateOperator<cr>"; 
-    }
-    {
-      mode = "n";
-      key = "<leader>L";
-      action = "<cmd>MoltenInit<cr>"; 
     }
   ];
 }

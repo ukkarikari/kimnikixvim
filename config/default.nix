@@ -23,21 +23,15 @@
     ./plugins/snippets/luasnip.nix
 
     # Utils
-    ./plugins/utils/harpoon.nix
     ./plugins/utils/whichkey.nix
-    ./plugins/utils/floaterm.nix
     ./plugins/utils/autopairs.nix
     ./plugins/utils/todo-comments.nix
     ./plugins/utils/guess-indent.nix
     ./plugins/utils/precognition.nix
     ./plugins/utils/neocord.nix
     ./plugins/utils/web-devicons.nix
-    ./plugins/utils/molten.nix
-    ./plugins/utils/jupytext.nix
-    ./plugins/utils/markdown-preview.nix
 
     # UI
-    ./plugins/ui/toggleterm.nix
     ./plugins/ui/lualine.nix
     ./plugins/ui/alpha.nix
   ];

@@ -1,7 +1,7 @@
 {
   plugins.lspsaga = {
     enable = true;
-    ui.border = "rounded";
-    beacon.enable = true;
+    settings.ui.border = "rounded";
+    settings.beacon.enable = true;
   };
 }
