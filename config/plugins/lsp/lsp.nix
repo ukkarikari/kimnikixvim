@@ -30,8 +30,20 @@
 	  enable = true;
 	  autostart = true;
 	};
-      };
-    };
-
+	# haskell
+	hls = {
+	  enable = true;
+	  autostart = true;
+    installGhc = true;
+	};
+  # javscript typescript
+  ts_ls = {
+    enable = true;
+    autostart = true;
   };
+  
+  };
+  };
+
+};
 }
